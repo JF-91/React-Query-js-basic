@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "description": "new",
+      "price": "3245",
+      "inStock": true,
+      "id": 1
+    }
+  ]
+}
